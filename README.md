@@ -1,5 +1,5 @@
 # Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/Dp49NLtLzuk/0.jpg)](https://www.youtube.com/watch?v=Dp49NLtLzuk)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Dp49NLtLzuk/0.jpg)](https://www.youtube.com/watch?v=Dp49NLtLzuk)
 
 # Car-Dealership-Simulator
 
