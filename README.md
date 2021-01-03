@@ -1,3 +1,6 @@
+# Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/Dp49NLtLzuk/0.jpg)](https://www.youtube.com/watch?v=Dp49NLtLzuk)
+
 # Car-Dealership-Simulator
 
 A car dealership inventory system is simulated using objects, classes, inheritance, collections, file I/O and exception handling.
